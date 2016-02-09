@@ -1,6 +1,6 @@
 <?php
 $ds          = DIRECTORY_SEPARATOR;
-
+ 
 $storeFolder = 'uploads';
 
 if (!empty($_FILES)) {
